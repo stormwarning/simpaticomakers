@@ -61,6 +61,10 @@ export default {
                 href: 'https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css',
             },
             {
+                rel: 'stylesheet',
+                href: 'https://fonts.googleapis.com/css?family=Raleway:300',
+            },
+            {
                 rel: 'apple-touch-icon',
                 sizes: '180x180',
                 href: '/apple-touch-icon.png',
