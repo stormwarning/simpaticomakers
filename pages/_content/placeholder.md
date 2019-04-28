@@ -1,1 +1,1 @@
-Coming soon.
+Full website coming soon.

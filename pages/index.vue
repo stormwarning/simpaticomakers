@@ -1,6 +1,6 @@
 <template>
-    <section>
-        <div class="content" v-html="comingSoon"></div>
+    <section class="mt5 measure center">
+        <div class="content f3" v-html="comingSoon"></div>
     </section>
 </template>
 
