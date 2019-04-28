@@ -1,3 +1,32 @@
 body {
     font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+
+.liga {
+    @supports not (font-variant-ligatures: common-ligatures) {
+        font-feature-settings: 'liga';
+    }
+    -ms-font-feature-settings: 'liga'; /* IE doesn’t support @supports, but `font-feature-settings` isn’t unprefixed, so we’re cool. */
+    font-variant-ligatures: common-ligatures;
+}
+
+.dlig {
+    @supports not (font-variant-ligatures: discretionary-ligatures) {
+        font-feature-settings: 'dlig';
+    }
+    -ms-font-feature-settings: 'dlig';
+    font-variant-ligatures: discretionary-ligatures;
+}
+
+.calt {
+    @supports not (font-variant-ligatures: contextual) {
+        font-feature-settings: 'calt';
+    }
+    -ms-font-feature-settings: 'calt';
+    font-variant-ligatures: contextual;
+}
+
+.violet {
+    color: #662d91;
 }

@@ -14,7 +14,7 @@ export default {
       Headers of the page
      */
     head: {
-        htmlAttrs: { class: 'bg-light-gray' },
+        htmlAttrs: { class: 'bg-white' },
         title: BASE_TITLE,
         meta: [
             { charset: 'utf-8' },
@@ -62,7 +62,8 @@ export default {
             },
             {
                 rel: 'stylesheet',
-                href: 'https://fonts.googleapis.com/css?family=Raleway:300',
+                href:
+                    'https://fonts.googleapis.com/css?family=Raleway:300,400,500,600',
             },
             {
                 rel: 'apple-touch-icon',
