@@ -63,7 +63,7 @@ export default {
             {
                 rel: 'stylesheet',
                 href:
-                    'https://fonts.googleapis.com/css?family=Raleway:300,400,500,600',
+                    'https://fonts.googleapis.com/css?family=Raleway:300,400,600',
             },
             {
                 rel: 'apple-touch-icon',
