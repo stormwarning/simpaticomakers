@@ -3,14 +3,17 @@
         <section class="flex items-end">
             <div class="w-40 mr4 flex-shrink-0">
                 <div class="aspect-ratio aspect-ratio--1x1">
-                    <img
-                        style="background-image:url(http://mrmrs.github.io/images/0006.jpg);"
-                        class="db bg-center cover aspect-ratio--object"
-                    />
+                    <div class="aspect-ratio--object">
+                        <img
+                            style="object-fit: cover;"
+                            src="~assets/img/wraps-1.jpg"
+                            alt=""
+                        />
+                    </div>
                 </div>
             </div>
             <div class="flex-auto pr4-ns mb4">
-                <p class="f3 measure-wide"
+                <p class="f2 measure"
                     >Simpatico Makers combine 100% beeswax and 100% cotton to
                     create resusable wraps as an alternative to&nbsp;plastic!</p
                 ><p class="f4 measure-wide">Available in three lengths:</p>
@@ -37,36 +40,48 @@
         <section class="cf pv2-ns nl2-ns nr2-ns">
             <article class="fl w-100 w-third-ns pa2-ns">
                 <div class="aspect-ratio aspect-ratio--1x1">
-                    <img
-                        style="background-image:url(http://mrmrs.github.io/images/0006.jpg);"
-                        class="db bg-center cover aspect-ratio--object"
-                    />
+                    <div class="aspect-ratio--object">
+                        <img
+                            style="object-fit: cover;"
+                            src="~assets/img/wraps-2.jpg"
+                            alt=""
+                        />
+                    </div>
                 </div>
             </article>
             <article class="fl w-100 w-third-ns pa2-ns">
                 <div class="aspect-ratio aspect-ratio--1x1">
-                    <img
-                        style="background-image:url(http://mrmrs.github.io/images/0006.jpg);"
-                        class="db bg-center cover aspect-ratio--object"
-                    />
+                    <div class="aspect-ratio--object">
+                        <img
+                            style="object-fit: cover;"
+                            src="~assets/img/wraps-3.jpg"
+                            alt=""
+                        />
+                    </div>
                 </div>
             </article>
             <article class="fl w-100 w-third-ns pa2-ns">
                 <div class="aspect-ratio aspect-ratio--1x1">
-                    <img
-                        style="background-image:url(http://mrmrs.github.io/images/0006.jpg);"
-                        class="db bg-center cover aspect-ratio--object"
-                    />
+                    <div class="aspect-ratio--object">
+                        <img
+                            style="object-fit: cover;"
+                            src="~assets/img/wraps-4.jpg"
+                            alt=""
+                        />
+                    </div>
                 </div>
             </article>
         </section>
         <section class="cf pl4">
             <figure class="w-40 fr ma0 ml4">
                 <div class="aspect-ratio aspect-ratio--1x1">
-                    <img
-                        style="background-image:url(http://mrmrs.github.io/images/0006.jpg);"
-                        class="db bg-center cover aspect-ratio--object"
-                    />
+                    <div class="aspect-ratio--object">
+                        <img
+                            style="object-fit: cover;"
+                            src="~assets/img/wraps-5.jpg"
+                            alt=""
+                        />
+                    </div>
                 </div>
             </figure>
             <h2 class="mt4 mb0 violet f1 fw3">Care and use</h2>
