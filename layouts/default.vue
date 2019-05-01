@@ -1,6 +1,6 @@
 <template>
-    <article class="min-vh-100 center ph2 lh-copy">
-        <header class="tc violet">
+    <article class="min-vh-100 lh-copy">
+        <header class="center ph2 tc violet">
             <h1
                 class="dib center mt3 pv4 ma0 f2 f1-ns f-subheadline-l fw3 lh-solid ttu tracked overflow-hidden bg-white"
             >
@@ -10,11 +10,47 @@
                 </span>
             </h1>
         </header>
-        <main>
+        <main class="center ph2">
             <nuxt />
         </main>
-        <footer>
-            Made in Edmonton, Alberta
+        <footer class="center mt4 ph2 pv3 bg-near-white">
+            <div class="ph4">
+                <nav class="mt3">
+                    <a
+                        class="link dib w2 h2 violet dim"
+                        href="#"
+                        rel="noopener norefer"
+                        target="_blank"
+                    >
+                        <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-width="2"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                            class="feather feather-instagram"
+                        >
+                            <rect
+                                x="2"
+                                y="2"
+                                width="20"
+                                height="20"
+                                rx="5"
+                                ry="5"
+                            ></rect>
+                            <path
+                                d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"
+                            ></path>
+                            <line x1="17.5" y1="6.5" x2="17.5" y2="6.5"></line>
+                        </svg>
+                    </a>
+                </nav>
+                <p class="mt5 pt3 bt bw1 b--light-gray"
+                    >Made in Edmonton, Alberta</p
+                >
+            </div>
         </footer>
     </article>
 </template>
@@ -28,7 +64,9 @@ export default {
 </script>
 
 <style scoped>
-article {
+header,
+main,
+footer {
     max-width: 1200px;
 }
 
