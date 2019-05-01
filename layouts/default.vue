@@ -18,8 +18,8 @@
                 <nav class="mt3">
                     <a
                         class="link dib w2 h2 violet dim"
-                        href="#"
-                        rel="noopener norefer"
+                        href="https://www.instagram.com/simpaticomakers/"
+                        rel="noopener noreferrer"
                         target="_blank"
                     >
                         <svg
