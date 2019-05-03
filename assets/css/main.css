@@ -27,6 +27,20 @@ body {
     font-variant-ligatures: contextual;
 }
 
+.lnum {
+    @supports not (font-variant-numeric: lining-nums) {
+        font-feature-settings: 'lnum', 'onum' 0;
+    }
+    font-variant-numeric: lining-nums;
+}
+
 .violet {
     color: #662d91;
+}
+
+.fit-cover {
+    width: 100%;
+    max-width: none;
+    height: 100%;
+    object-fit: cover;
 }

@@ -1,19 +1,19 @@
 <template>
     <article class="min-vh-100 lh-copy">
-        <header class="center ph2 tc violet">
+        <header class="center ph3 tc violet">
             <h1
                 class="dib center mt3 pv4 ma0 f2 f1-ns f-subheadline-l fw3 lh-solid ttu tracked overflow-hidden bg-white"
             >
                 <span>Simpatico</span><br />
-                <span class="subtitle relative f1 fw6">
+                <span class="subtitle relative f3 f2-ns f1-l fw6">
                     Makers
                 </span>
             </h1>
         </header>
-        <main class="center ph2">
+        <main class="center ph3">
             <nuxt />
         </main>
-        <footer class="center mt4 ph2 pv3 bg-near-white">
+        <footer class="center mt4 ph3 pv3 bg-near-white">
             <div class="ph4">
                 <nav class="mt3">
                     <a
