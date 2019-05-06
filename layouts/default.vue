@@ -46,6 +46,27 @@
                             <line x1="17.5" y1="6.5" x2="17.5" y2="6.5"></line>
                         </svg>
                     </a>
+                    <a
+                        class="link dib w2 h2 violet dim"
+                        href="https://www.facebook.com/simpatico.makers.1"
+                        rel="noopener noreferrer"
+                        target="_blank"
+                    >
+                        <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-width="2"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                            class="feather feather-facebook"
+                        >
+                            <path
+                                d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"
+                            ></path>
+                        </svg>
+                    </a>
                 </nav>
                 <p class="mt5 pt3 bt bw1 b--light-gray"
                     >Made in Edmonton, Alberta</p
