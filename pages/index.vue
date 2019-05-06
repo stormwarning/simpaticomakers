@@ -6,8 +6,8 @@
                 resusable wraps as an alternative to&nbsp;plastic!</p
             >
         </section>
-        <section class="flex-l items-end">
-            <div class="w-40-ns mh4 ml0-ns mv4 mv0-ns flex-shrink-0">
+        <section class="flex-l items-end ph4-ns">
+            <div class="w-40-l mh4 ml0-l mv4 mv0-ns flex-shrink-0">
                 <div class="aspect-ratio aspect-ratio--1x1">
                     <div class="aspect-ratio--object">
                         <img
@@ -75,7 +75,7 @@
                 </div>
             </article>
         </section>
-        <section class="cf pl4-l">
+        <section class="ph4-m cf pl4-l">
             <figure class="w-40-l fr-l mh4 mr0-l mv4 mv0-l">
                 <div class="aspect-ratio aspect-ratio--1x1">
                     <div class="aspect-ratio--object">
