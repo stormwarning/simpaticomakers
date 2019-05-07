@@ -1,13 +1,13 @@
 <template>
     <div class="mt4 mt5-l">
         <section class="ph4-ns">
-            <p class="mb5 f3 f2-l measure-narrow"
+            <p class="mb5 f3 f2-l measure"
                 >Simpatico Makers combine 100% beeswax and 100% cotton to create
                 resusable wraps as an alternative to&nbsp;plastic!</p
             >
         </section>
-        <section class="flex-l items-end ph4-ns">
-            <div class="w-40-l mh4 ml0-l mv4 mv0-ns flex-shrink-0">
+        <section class="flex-l items-end ph4-ns pl0-l">
+            <div class="dn db-l w-40-l mh4 ml0-l mv4 mv0-ns flex-shrink-0">
                 <div class="aspect-ratio aspect-ratio--1x1">
                     <div class="aspect-ratio--object">
                         <img
