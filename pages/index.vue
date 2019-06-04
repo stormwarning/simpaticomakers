@@ -87,9 +87,7 @@
                     </div>
                 </div>
             </figure>
-            <h2 class="mt4 mb0 violet f3 f2-ns f1-l fw3 lh-solid"
-                >Care and use</h2
-            >
+            <h2 class="mt4 mb0 f3 f2-l fw3 lh-solid">Care and use</h2>
             <p class="f5 f4-l measure-wide"
                 >Unroll and cut into desired sizes. Gently pre-wash in cold
                 water and dish soap, hang to dry. Crumple wrap into a ball and
